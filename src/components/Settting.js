@@ -247,12 +247,10 @@ const Settings = () => {
             </div>
           </div>
         </div>
-        <div className="table-body-container">
+        {/* <div className="table-body-container">
           <table
             style={{
-              // width: "75%",
               borderCollapse: "collapse",
-              // marginLeft: "295px",
             }}
           >
             <thead>
@@ -342,7 +340,7 @@ const Settings = () => {
               ))}
             </tbody>
           </table>
-        </div>
+        </div> */}
       </div>
     </>
   );
