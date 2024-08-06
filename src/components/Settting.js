@@ -250,9 +250,7 @@ const Settings = () => {
         <div className="table-body-container">
           <table
             style={{
-              // width: "75%",
               borderCollapse: "collapse",
-              // marginLeft: "295px",
             }}
           >
             <thead>
