@@ -247,7 +247,7 @@ const Settings = () => {
             </div>
           </div>
         </div>
-        {/* <div className="table-body-container">
+        <div className="table-body-container">
           <table
             style={{
               borderCollapse: "collapse",
@@ -340,7 +340,7 @@ const Settings = () => {
               ))}
             </tbody>
           </table>
-        </div> */}
+        </div>
       </div>
     </>
   );
